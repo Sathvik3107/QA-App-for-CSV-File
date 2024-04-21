@@ -1,0 +1,11 @@
+openai
+langchain 
+gradio  
+pandas
+matplotlib
+seaborn
+google-generativeai
+langchain_google_genai
+langchain_experimental
+streamlit 
+streamlit_chat
